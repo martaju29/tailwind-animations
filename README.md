@@ -1,2 +1,2 @@
 # tailwind-animations
-Create tailwind plugin
+Tailwind animation plugin

@@ -1,0 +1,26 @@
+{
+  "name": "@codecomet/tailwind-animations",
+  "version": "0.0.3",
+  "description": "Tailwind CSS plugin to add animations to you project",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Code comet & @midudev course",
+  "license": "ISC",
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "@csstools/postcss-minify": "2.0.1",
+    "postcss": "8.4.41",
+    "standard": "17.1.0",
+    "tailwindcss": "3.4.10",
+    "vitest": "2.0.5"
+  }
+}
